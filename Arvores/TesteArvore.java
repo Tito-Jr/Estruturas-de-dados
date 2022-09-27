@@ -18,5 +18,5 @@ public class TesteArvore {
         arvore.print();
         System.out.println("Altura da arvore: " + arvore.alturaArvore());
     }
- 
+
 }
